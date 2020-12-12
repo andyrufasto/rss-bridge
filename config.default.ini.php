@@ -27,7 +27,7 @@ custom_timeout = false
 ; Advertise an email address where people can reach the administrator.
 ; This address is displayed on the main page, visible to everyone!
 ; ""    = Disabled (default)
-email = ""
+email = "andy@andyrufasto.cf"
 
 [proxy]
 
